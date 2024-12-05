@@ -7,3 +7,4 @@
 > ### 추억이 담긴 장소들을 지도로 쉽게 확인하고, 그때의 감정들을 떠올려봐요.
 
 ### [UStory 바로가기](https://ustory.me)
+![대상](https://github.com/user-attachments/assets/52e7564e-8f17-43ee-ad11-887da3e5be77)
